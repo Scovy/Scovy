@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+### Key Areas of Interest
+Cloud Computing
+DevOps Practices
 <!--
 **Scovy/Scovy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
